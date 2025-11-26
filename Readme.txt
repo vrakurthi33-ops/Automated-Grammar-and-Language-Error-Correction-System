@@ -1,13 +1,5 @@
  Automated Grammar and Language Error Correction System
 
- Team Number:ÊTeam-8
- Course:ÊAIT 526 - Natural Language Processing, Section 001
- Professor:ÊDuoduo Liao
-Team Members
-1. Sai Avinash Polina
-2. Chandana Gangaraju
-3. Akshitha Komatireddy
-4. Venkatesh Rakurthi
 
 Project Overview
 
